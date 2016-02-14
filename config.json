@@ -1,5 +1,5 @@
 {
-    "username": "MY_USERNAME",
+    "username": "David van den Bergh",
     "selfcontrol-path": "/Applications/SelfControl.app",
     "host-blacklist": [
         "twitter.com",
@@ -7,11 +7,11 @@
     ],
     "block-schedules":[
         {
-            "weekday": 1,
-            "start-hour": 8,
-            "start-minute": 0,
+            "weekday": 7,
+            "start-hour": 17,
+            "start-minute": 55,
             "end-hour": 17,
-            "end-minute": 0
+            "end-minute": 58
         },
         {
             "weekday": 2,
@@ -49,7 +49,7 @@
             "end-minute": 0
         },
         {
-            "weekday": 7,
+            "weekday": 3,
             "start-hour": 8,
             "start-minute": 0,
             "end-hour": 17,
